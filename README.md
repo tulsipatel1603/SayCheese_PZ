@@ -6,7 +6,7 @@ Build a small POC of the front-end and an API showing crud capabilities that dis
 
 # Getting Started
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/tulsipatel1603/sayCheese_PZ
 
 2. Install required modules: `npm i`
 
