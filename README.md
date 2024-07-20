@@ -6,13 +6,11 @@ Build a small POC of the front-end and an API showing crud capabilities that dis
 
 # Getting Started
 
-1. Clone the repository:
-
-2. Install required modules: `npm i`
-
-3. Run the server `cd server` then `npm run dev`
-
+1. Clone the repository: https://github.com/tulsipatel1603/sayCheese_PZ
+2. Run the server `cd server` then `npm run dev`
+3. Install required modules: `npm i`
 4. Start the client `cd client` then `npm start`
+5. Install required modules: `npm i`
 
 # Improvements if I had more time
 
