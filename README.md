@@ -15,7 +15,6 @@ Build a small POC of the front-end and an API showing crud capabilities that dis
 # Improvements if I had more time
 
 1. Firstly, use a database to manage the data better and cleaner - this would allow me to add/delete (Crud capabilities) data entries into the database
-2. Docker and Swagger are new to me, I would have to do research and learn about this to implement it effectively
+2. Swagger is new to me, I would have to do research and learn about this to implement it effectively
 3. Make the code more modularised by making more files and importing them
-4. Add unit testing 
 
