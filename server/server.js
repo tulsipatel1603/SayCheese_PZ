@@ -46,4 +46,4 @@ const PORT = 3000;
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
 
 
-//improvements - create a database to store instead of this hard code if time requires
+//improvements - create a database to store instead of this hard code if time requires and be able to do CRUD capabilites
