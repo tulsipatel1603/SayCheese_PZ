@@ -19,5 +19,3 @@ Build a small POC of the front-end and an API showing crud capabilities that dis
 3. Make the code more modularised by making more files and importing them
 4. Add unit testing 
 
-
-
